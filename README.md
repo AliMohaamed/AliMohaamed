@@ -9,7 +9,7 @@
 </div>
 
 ## <span style="color: blue !important;">&gt;</span> Skillset
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,bootstrap,tailwind,cpp,javascript,typescript,reactjs,angular,nodejs,express,nestjs,mongodb,mysql,sequelize,postman,bash,&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,scss,bootstrap,tailwind,figma,cpp,javascript,jquery,typescript,react,redux,angular,next,nodejs,express,graphql,nestjs,mongodb,mysql,postgresql,sequelize,postman,bash,&perline=12)](https://skillicons.dev)
 
 
 
