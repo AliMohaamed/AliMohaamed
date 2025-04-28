@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! My name is Ali Mohamed and I'm Computer Science Graduate passionate about software engineering and full stack developer</h3>
+<h3 align="center">Hi 👋! My name is Ali Mohamed and I'm Computer Science Graduate passionate about software engineering and full stack development</h3>
 
 ###
 
